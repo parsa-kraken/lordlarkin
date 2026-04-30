@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 1
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
