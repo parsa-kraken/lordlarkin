@@ -14,6 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ahmad-sheikhzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-sheikhzadeh" height="30" width="40" /></a>
+<a href="https://instagram.com/studio.adobe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="studio.adobe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sheikh_python" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sheikh_python" height="30" width="40" /></a>
+</p>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
